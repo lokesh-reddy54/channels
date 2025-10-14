@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://192.168.1.6:5350/epg.xml.gz"
 #EXTINF:-1 tvg-id="897" tvg-name="Gemini TV HD" tvg-logo="http://192.168.1.6:5350/jtvimage/Gemini_TV_HD.png" tvg-language="Telugu" tvg-type="Telugu" group-title="Entertainment",Gemini TV HD
-http://192.168.1.6:5350/live/897.m3u8
+http://localhost:5350/live/897.m3u8
 #EXTINF:-1 tvg-id="899" tvg-name="Gemini Movies HD" tvg-logo="http://192.168.1.6:5350/jtvimage/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Telugu" group-title="Movies",Gemini Movies HD
 http://192.168.1.6:5350/live/899.m3u8
 #EXTINF:-1 tvg-id="729" tvg-name="Gemini Comedy" tvg-logo="http://192.168.1.6:5350/jtvimage/Gemini_Comedy.png" tvg-language="Telugu" tvg-type="Telugu" group-title="Entertainment",Gemini Comedy
