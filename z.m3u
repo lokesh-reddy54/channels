@@ -6,13 +6,13 @@ http://localhost:5350/live/899.m3u8
 #EXTINF:-1 tvg-id="729" tvg-name="Gemini Comedy" tvg-logo="http://localhost:5350/jtvimage/Gemini_Comedy.png" tvg-language="Telugu" tvg-type="Telugu" group-title="Entertainment",Gemini Comedy
 http://localhost:5350/live/729.m3u8
 #EXTINF:-1 tvg-id="90001400" tvg-name="ETV Telugu HD" tvg-logo="https://oxolive.com/wp-content/uploads/2020/06/ChatGPT-Image-Aug-30-2025-12_01_48-PM-1-185x278.png" tvg-language="Telugu" tvg-type="Telugu" group-title="Telugu",ETV Telugu HD
-https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8&id=23721&type=mp4
 #EXTINF:-1 tvg-id="900016296" tvg-name="ETV Cinema HD" tvg-logo="https://oxolive.com/wp-content/uploads/2024/01/ChatGPT-Image-Aug-30-2025-11_58_34-AM-1-185x278.png" tvg-language="Telugu" tvg-type="Telugu" group-title="Telugu",ETV Cinema HD
-https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="900022664" tvg-name="ETV Comedy" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-03_13_59-PM-1-185x278.png" tvg-language="Telugu" tvg-type="Telugu" group-title="Telugu",ETV Comedy
 https://cc-wie8j8y69d2uy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="900016298" tvg-name="ETV Plus HD" tvg-logo="https://oxolive.com/wp-content/uploads/2024/01/ChatGPT-Image-Apr-11-2025-06_00_47-PM-185x278.png" tvg-language="Telugu" tvg-type="Telugu" group-title="Telugu",ETV Plus HD
-https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8
+https://d2pk5pedkyu2d0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264_cloud_in/index.m3u8&id=23717
 #EXTINF:-1 tvg-id="900022662" tvg-name="ETV Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-03_11_15-PM-1-185x278.png" tvg-language="Telugu" tvg-type="Telugu" group-title="Telugu",ETV Music
 https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="898" tvg-name="Gemini Music HD" tvg-logo="http://localhost:5350/jtvimage/Gemini_Music_HD.png" tvg-language="Telugu" tvg-type="Telugu" group-title="Music",Gemini Music HD
